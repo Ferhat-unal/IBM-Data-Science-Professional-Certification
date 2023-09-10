@@ -44,3 +44,5 @@ Train and compare machine learning models to predict if a space launch can reuse
 NOTE: Courses 4 and 5 are considered to be one full course, where Course 5 includes a project that implements the material learned in Course 4❗
 
 Link to this Professional Certification Program is provided [here](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+# Certificate and Badge
