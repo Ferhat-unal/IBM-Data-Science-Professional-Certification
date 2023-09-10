@@ -30,16 +30,16 @@ Train and compare machine learning models to predict if a space launch can reuse
 
 |**Course Number** |	**Course Title**|
 |----|----------|
-|Course 1 |	What is Data Science?|
-|Course 2	| Tools for Data Science|
-|Course 3	| Data Science Methodology|
-|Course 4	| Python for Data Science, AI & Development|
-|Course 5	| Python Project for Data Science|
-|Course 6	| Databases and SQL for Data Science with Python|
-|Course 7	| Data Analysis with Python|
-|Course 8	| Data Visualization with Python|
-|Course 9	| Machine Learning with Python|
-|Course 10 | Applied Data Science Capstone|
+|Course 1|What is Data Science?|
+|Course 2|Tools for Data Science|
+|Course 3|Data Science Methodology|
+|Course 4|Python for Data Science, AI & Development|
+|Course 5|Python Project for Data Science|
+|Course 6|Databases and SQL for Data Science with Python|
+|Course 7|Data Analysis with Python|
+|Course 8|Data Visualization with Python|
+|Course 9|Machine Learning with Python|
+|Course 10|Applied Data Science Capstone|
 NOTE: Courses 4 and 5 are considered to be one full course, where Course 5 includes a project that implements the material learned in Course 4❗
 
 Link to this Professional Certification Program is provided here
