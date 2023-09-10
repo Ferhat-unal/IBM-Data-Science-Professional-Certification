@@ -29,7 +29,7 @@ Train and compare machine learning models to predict if a space launch can reuse
 # Courses in the IBM Data Science Professional Certificate
 
 |**Course Number** |	**Course Title**|
-|----------------|----------------------|
+|----|----------|
 |Course 1 |	What is Data Science?|
 |Course 2	| Tools for Data Science|
 |Course 3	| Data Science Methodology|
