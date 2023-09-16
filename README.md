@@ -49,3 +49,8 @@ NOTE: Courses 4 and 5 are considered to be one full course, where Course 5 inclu
 Link to this Professional Certification Program is provided [here](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 # Certificate and Badge
+
+Click on the images below to verify the certificate and badge earned
+
+[alt test](https://www.credly.com/earner/earned/badge/3cf1ee55-bca1-458d-a980-b77f5a533b9a)
+[alt test](https://www.credly.com/earner/earned/badge/e9a17997-6424-4d66-8853-64cf280ecef7)
