@@ -52,6 +52,9 @@ Link to this Professional Certification Program is provided [here](https://www.c
 
 Click on the images below to verify the certificate and badge earned
 
-[Logo](https://www.credly.com/earner/earned/badge/3cf1ee55-bca1-458d-a980-b77f5a533b9a)
-![Capture d’écran 2023-09-16 131138](https://github.com/Ferhat-unal/IBM-Data-Science-Professional-Certification/assets/144599689/cfd03fa9-58d5-4ca2-b328-a881530495c0)
-[Logo](https://www.credly.com/earner/earned/badge/e9a17997-6424-4d66-8853-64cf280ecef7)
+![image](https://github.com/Ferhat-unal/IBM-Data-Science-Professional-Certification/assets/144599689/fd9a80b7-e250-42e1-ae11-c1a732741790)
+![image](https://github.com/Ferhat-unal/IBM-Data-Science-Professional-Certification/assets/144599689/4f453320-b28e-4c10-bc04-27a5f004165f)
+
+![image](https://github.com/Ferhat-unal/IBM-Data-Science-Professional-Certification/assets/144599689/62a83b32-2091-4dbe-8c74-e1e0cd5b7202)
+
+
